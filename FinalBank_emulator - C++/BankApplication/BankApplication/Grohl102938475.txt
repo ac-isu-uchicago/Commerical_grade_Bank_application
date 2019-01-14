@@ -1,0 +1,4 @@
+Withdrawal Transaction: $50.00 withdrawn from checking account. New Balance: $200.00
+
+Transfer Transaction: $50.00 transferred from checking to savings.
+

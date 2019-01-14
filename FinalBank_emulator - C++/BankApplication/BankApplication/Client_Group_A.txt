@@ -1,0 +1,10 @@
+Last Name           |First Name          |SSN       |DOB        |Client Group Filename    |Acct # |Checking Balance |Savings Balance  |
+=======================================================================================================================================
+Chaldean            |Jason               |123459876 |03/02/1949 |Client_Group_A.txt       |1      |100.00           |500.00           |
+Berkeley            |Christine           |987645123 |07/23/1992 |Client_Group_A.txt       |2      |300.00           |1500.00          |
+Stanford            |Joseph              |456980123 |12/22/1945 |Client_Group_A.txt       |3      |200.00           |1000.00          |
+Samuylina           |Nadia               |341257890 |03/29/1987 |Client_Group_A.txt       |4      |1000.00          |10000.00         |
+Grohl               |David               |102938475 |09/12/1970 |Client_Group_A.txt       |5      |150.00           |2550.00          |
+Forrester           |William             |334567671 |10/15/1955 |Client_Group_A.txt       |6      |430.00           |2000.00          |
+Durden              |Tyler               |000000000 |06/11/1962 |Client_Group_A.txt       |7      |777.00           |7777.00          |
+Coleman             |Jack                |112345454 |01/22/1960 |Client_Group_A.txt       |8      |1000.00          |3000.00          |

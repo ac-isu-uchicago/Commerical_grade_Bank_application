@@ -1,0 +1,14 @@
+Last Name           |First Name          |SSN       |DOB        |Client Group Filename    |Acct # |Checking Balance |Savings Balance  |
+=======================================================================================================================================
+Gibraltar            |Stanley            |344567765 |11/17/1985 |Client_Group_B.txt       |9      |200.00           |2000.00          | 
+Kaladjian            |Susan              |102938475 |10/15/1956 |Client_Group_B.txt       |10     |300.00           |8000.00          |
+Berens               |Heather            |293810564 |09/25/1987 |Client_Group_B.txt       |11     |400.00           |2500.00          |
+Strife               |Cloud              |777777777 |02/09/1946 |Client_Group_B.txt       |12     |500.00           |800.00           |
+Serra                |Inara              |131313131 |04/20/1980 |Client_Group_B.txt       |13     |1200.00          |10000.00         |
+Frye                 |Kaylee             |131415233 |05/13/1989 |Client_Group_B.txt       |14     |350.00           |4000.00          |
+Book                 |Shepherd           |316316316 |08/22/1995 |Client_Group_B.txt       |15     |100.00           |1050.00          |
+Henge                |Saffron            |110001001 |02/20/1988 |Client_Group_B.txt       |16     |750.00           |15000.00         |
+Reynolds             |Malcolm            |111111111 |07/28/1971 |Client_Group_B.txt       |17     |575.00           |10000.00         |
+Crockett             |Amber              |999999999 |05/07/1986 |Client_Group_B.txt       |18     |2000.00          |2300.00          |
+Perez                |David              |100100010 |02/07/1974 |Client_Group_B.txt       |19     |3500.00          |5500.00          |
+Lee                  |JunFan             |100000000 |01/01/1950 |Client_Group_B.txt       |20     |600.00           |7500.00          |

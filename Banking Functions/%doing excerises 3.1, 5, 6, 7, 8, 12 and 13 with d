@@ -1,0 +1,93 @@
+%doing excerises 3.1, 5, 6, 7, 8, 12 and 13 with data from a table
+
+x = linespace(0, 10, 100);
+
+func_1 =  exp(-0.5 * x) .* sin(2.*x);
+
+plot (x, func_1, 'b-', 'linewidth', 2);
+
+hold on;
+
+func_2 = exp(-0.5.*x) . * cos(2*x);
+
+hold off;
+
+title('The graph of the two functions');
+
+xlabel('\bf\itx');
+
+ylabel ('\bf\ity(x)');
+
+legend('func_1 , func_2);
+
+grid on;
+
+%3.5
+
+%r(theta) = sin(2(theta)) * cos(theta); 0 <= theta <= 2pi
+
+polar(ta, r);
+
+ta = (0:0.01:2) * 2 * pi;
+r = sin(2. * ta) .* cos(ta);
+polar(ta, r);
+
+title('Practice_Polar_Graph');
+
+%3.6
+
+x = linspace(-6, 6, 100);
+
+f = x.^4 - 3*x. ^ 3 + 10*x.^2 - x - 2;
+
+plot (x, f, 'k-', 'LineWidth', 2);
+
+hold on;
+
+title('\bf The Plot of \itf(x) = x\rm\bf^{4} - 
+3\itx\rm\bf^3{3} + 10\itx\rm\bf^{2} - \itx\rm\bf - 2');
+
+xlabel('\bf\ itx');
+ylabel('\bf\itf(x)');
+
+grid on;
+
+%3.6
+
+x + linspace()(-2, 8, 200);
+func_1 (x.^2 - 6*x + 5) ./ (x - 3);
+
+plot(x, fun, 'b-', 'LineWidth', 2);
+
+axis([-2 8 -10 10]);
+
+hold on;
+
+title('Function plot');
+
+xlabel('x');
+ylabel('f(x');
+
+
+%pie plot
+
+contribition = [15 5 10 5 15];
+
+pie(contribution);
+
+title('Pie Chart');
+
+legend('George', 'Sam', 'Betty', 'Charlie', 'Suzie');
+
+
+x = linespace(1, 100, 100);
+
+y = 20*log10(2*x);
+
+figure(1);
+
+semilogx(x, y,'b-', 'LineWidth', 2);
+
+xlabel('\itx');
+ylabel('\ity')
+;

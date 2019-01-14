@@ -1,0 +1,10 @@
+Withdrawal Transaction: $6000.00 withdrawn from checking account. New Balance: $-1005.00
+
+Deposit Transaction: $6005.00 deposited into checking account. New Balance: $5000.00
+
+Withdrawal Transaction: $6000.00 withdrawn from checking account. New Balance: $-1005.00
+
+Deposit Transaction: $1000.00 deposited into checking account. New Balance: $-5.00
+
+Deposit Transaction: $1005.00 deposited into checking account. New Balance: $1000.00
+
